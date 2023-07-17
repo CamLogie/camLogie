@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Platform engineer at Deloitte
+Former platform engineer at Deloitte. Love devops and reliability engineering. A good firefighter.
